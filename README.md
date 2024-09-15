@@ -1,13 +1,6 @@
-## simsimi
-
 ![SimSimi logo](./simsimi-logo.jpg)
 
-> [Simsimi](https://workshop.simsimi.com) API in Node.js
-
-![npm](https://badge.fury.io/js/simsimi.png) 
-[![Build Status](https://travis-ci.org/song940/simsimi.svg?branch=next)](https://travis-ci.org/song940/simsimi)
-
-**>> simsimi old versions please checkout [master branch](https://github.com/song940/simsimi/tree/master) <<**
+![NPM](https://img.shields.io/badge/npm%20package-3.0.0-brightgreen?logo=NPM&link=https%3A%2F%2Fbadge.fury.io%2Fjs%2Fsimsimi.png)
 
 ### Installation
 
