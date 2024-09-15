@@ -1,6 +1,6 @@
 ## simsimi
 
-![simsimi logo](./simsimi-logo.png)
+![SimSimi logo](./simsimi-logo.jpg)
 
 > [Simsimi](https://workshop.simsimi.com) API in Node.js
 
