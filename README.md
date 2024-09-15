@@ -18,7 +18,7 @@ const simsimi = require('simsimi')({
 (async () => {
 
   const response = await simsimi('Hi!');
-  console.log('simsimi say:', response); // What's up ?
+  console.log('simsimi say:', response); // What's up ? 
 
 })();
 ```
